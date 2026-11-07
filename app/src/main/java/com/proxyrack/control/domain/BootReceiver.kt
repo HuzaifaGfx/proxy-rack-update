@@ -1,0 +1,28 @@
+package com.proxyrack.control.domain
+
+import android.content.BroadcastReceiver
+import android.content.Context
+import android.content.Intent
+import android.util.Log
+import androidx.core.content.ContextCompat
+
+class BootReceiver : BroadcastReceiver() {
+    override fun onReceive(context: Context, intent: Intent) {
+        val action = intent.action
+        Log.d("BootReceiver", "Received boot broadcast action: $action")
+        if (action == Intent.ACTION_BOOT_COMPLETED ||
+            action == Intent.ACTION_LOCKED_BOOT_COMPLETED ||
+            action == Intent.ACTION_MY_PACKAGE_REPLACED ||
+            action == "android.intent.action.QUICKBOOT_POWERON" ||
+            action == "com.htc.intent.action.QUICKBOOT_POWERON") {
+
+            Log.d("BootReceiver", "Auto-starting Proxy ConnectionService on device boot...")
+            val serviceIntent = Intent(context, ConnectionService::class.java)
+            try {
+                ContextCompat.startForegroundService(context, serviceIntent)
+            } catch (e: Exception) {
+                Log.e("BootReceiver", "Failed to auto-start ConnectionService on boot", e)
+            }
+        }
+    }
+}
