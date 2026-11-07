@@ -1,0 +1,21 @@
+image: saschpe/android-ndk:35-jdk22.0.2_9-ndk27.0.12077973-cmake3.22.1
+
+pipelines:
+  default:
+    - step:
+        name: Build Gradle Project
+        size: 2x
+        caches:
+          - gradle
+        script:
+          - export GRADLE_USER_HOME=`pwd`/.gradle
+          - echo $KEYSTORE_BASE64 | base64 --decode > proxyRackMobileReleaseKey.jks
+          - export KEYSTORE_FILE_PATH=`pwd`/proxyRackMobileReleaseKey.jks
+          - ./gradlew clean build
+        artifacts:
+          - app/build/outputs/**/*.apk
+
+definitions:
+  caches:
+    gradle: ~/.gradle
+

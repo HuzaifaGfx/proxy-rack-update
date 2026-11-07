@@ -1,0 +1,214 @@
+[
+    {
+        "merged": "com.proxyrack.control.app-release-4:/drawable-hdpi_logo.png.flat",
+        "source": "com.proxyrack.control.app-pngs-0:/drawable-hdpi/logo.png"
+    },
+    {
+        "merged": "com.proxyrack.control.app-release-4:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.proxyrack.control.app-main-5:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.proxyrack.control.app-release-4:/drawable-xxhdpi_logo_full.png.flat",
+        "source": "com.proxyrack.control.app-pngs-0:/drawable-xxhdpi/logo_full.png"
+    },
+    {
+        "merged": "com.proxyrack.control.app-release-4:/drawable-anydpi-v24_header_bg.xml.flat",
+        "source": "com.proxyrack.control.app-pngs-0:/drawable-anydpi-v24/header_bg.xml"
+    },
+    {
+        "merged": "com.proxyrack.control.app-release-4:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.proxyrack.control.app-main-5:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.proxyrack.control.app-release-4:/drawable_wifi_connected.xml.flat",
+        "source": "com.proxyrack.control.app-main-5:/drawable/wifi_connected.xml"
+    },
+    {
+        "merged": "com.proxyrack.control.app-release-4:/drawable-xxxhdpi_header_bg.png.flat",
+        "source": "com.proxyrack.control.app-pngs-0:/drawable-xxxhdpi/header_bg.png"
+    },
+    {
+        "merged": "com.proxyrack.control.app-release-4:/drawable-mdpi_logo.png.flat",
+        "source": "com.proxyrack.control.app-pngs-0:/drawable-mdpi/logo.png"
+    },
+    {
+        "merged": "com.proxyrack.control.app-release-4:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.proxyrack.control.app-main-5:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.proxyrack.control.app-release-4:/drawable-xxhdpi_logo.png.flat",
+        "source": "com.proxyrack.control.app-pngs-0:/drawable-xxhdpi/logo.png"
+    },
+    {
+        "merged": "com.proxyrack.control.app-release-4:/drawable-xxhdpi_logo_white.png.flat",
+        "source": "com.proxyrack.control.app-pngs-0:/drawable-xxhdpi/logo_white.png"
+    },
+    {
+        "merged": "com.proxyrack.control.app-release-4:/xml_backup_rules.xml.flat",
+        "source": "com.proxyrack.control.app-main-5:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.proxyrack.control.app-release-4:/drawable-hdpi_logo_full.png.flat",
+        "source": "com.proxyrack.control.app-pngs-0:/drawable-hdpi/logo_full.png"
+    },
+    {
+        "merged": "com.proxyrack.control.app-release-4:/drawable-anydpi-v24_logo_white.xml.flat",
+        "source": "com.proxyrack.control.app-pngs-0:/drawable-anydpi-v24/logo_white.xml"
+    },
+    {
+        "merged": "com.proxyrack.control.app-release-4:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.proxyrack.control.app-main-5:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.proxyrack.control.app-release-4:/drawable-ldpi_logo_full.png.flat",
+        "source": "com.proxyrack.control.app-pngs-0:/drawable-ldpi/logo_full.png"
+    },
+    {
+        "merged": "com.proxyrack.control.app-release-4:/drawable-anydpi-v24_logo.xml.flat",
+        "source": "com.proxyrack.control.app-pngs-0:/drawable-anydpi-v24/logo.xml"
+    },
+    {
+        "merged": "com.proxyrack.control.app-release-4:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.proxyrack.control.app-main-5:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.proxyrack.control.app-release-4:/drawable-xxxhdpi_logo_white.png.flat",
+        "source": "com.proxyrack.control.app-pngs-0:/drawable-xxxhdpi/logo_white.png"
+    },
+    {
+        "merged": "com.proxyrack.control.app-release-4:/drawable-mdpi_header_bg.png.flat",
+        "source": "com.proxyrack.control.app-pngs-0:/drawable-mdpi/header_bg.png"
+    },
+    {
+        "merged": "com.proxyrack.control.app-release-4:/drawable-xhdpi_logo_white.png.flat",
+        "source": "com.proxyrack.control.app-pngs-0:/drawable-xhdpi/logo_white.png"
+    },
+    {
+        "merged": "com.proxyrack.control.app-release-4:/mipmap-ldpi_ic_launcher.png.flat",
+        "source": "com.proxyrack.control.app-main-5:/mipmap-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.proxyrack.control.app-release-4:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.proxyrack.control.app-main-5:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.proxyrack.control.app-release-4:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.proxyrack.control.app-main-5:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.proxyrack.control.app-release-4:/xml_data_extraction_rules.xml.flat",
+        "source": "com.proxyrack.control.app-main-5:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.proxyrack.control.app-release-4:/drawable_arrow_left.xml.flat",
+        "source": "com.proxyrack.control.app-main-5:/drawable/arrow_left.xml"
+    },
+    {
+        "merged": "com.proxyrack.control.app-release-4:/drawable-xhdpi_header_bg.png.flat",
+        "source": "com.proxyrack.control.app-pngs-0:/drawable-xhdpi/header_bg.png"
+    },
+    {
+        "merged": "com.proxyrack.control.app-release-4:/drawable-hdpi_logo_white.png.flat",
+        "source": "com.proxyrack.control.app-pngs-0:/drawable-hdpi/logo_white.png"
+    },
+    {
+        "merged": "com.proxyrack.control.app-release-4:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.proxyrack.control.app-main-5:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.proxyrack.control.app-release-4:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.proxyrack.control.app-main-5:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.proxyrack.control.app-release-4:/drawable-xhdpi_logo.png.flat",
+        "source": "com.proxyrack.control.app-pngs-0:/drawable-xhdpi/logo.png"
+    },
+    {
+        "merged": "com.proxyrack.control.app-release-4:/xml_file_paths.xml.flat",
+        "source": "com.proxyrack.control.app-main-5:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.proxyrack.control.app-release-4:/drawable-ldpi_logo.png.flat",
+        "source": "com.proxyrack.control.app-pngs-0:/drawable-ldpi/logo.png"
+    },
+    {
+        "merged": "com.proxyrack.control.app-release-4:/drawable-mdpi_logo_white.png.flat",
+        "source": "com.proxyrack.control.app-pngs-0:/drawable-mdpi/logo_white.png"
+    },
+    {
+        "merged": "com.proxyrack.control.app-release-4:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.proxyrack.control.app-main-5:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.proxyrack.control.app-release-4:/drawable-xxxhdpi_logo_full.png.flat",
+        "source": "com.proxyrack.control.app-pngs-0:/drawable-xxxhdpi/logo_full.png"
+    },
+    {
+        "merged": "com.proxyrack.control.app-release-4:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.proxyrack.control.app-main-5:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.proxyrack.control.app-release-4:/drawable-anydpi-v24_logo_full.xml.flat",
+        "source": "com.proxyrack.control.app-pngs-0:/drawable-anydpi-v24/logo_full.xml"
+    },
+    {
+        "merged": "com.proxyrack.control.app-release-4:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.proxyrack.control.app-main-5:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.proxyrack.control.app-release-4:/drawable-xxxhdpi_logo.png.flat",
+        "source": "com.proxyrack.control.app-pngs-0:/drawable-xxxhdpi/logo.png"
+    },
+    {
+        "merged": "com.proxyrack.control.app-release-4:/drawable_wifi_disconnected.xml.flat",
+        "source": "com.proxyrack.control.app-main-5:/drawable/wifi_disconnected.xml"
+    },
+    {
+        "merged": "com.proxyrack.control.app-release-4:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.proxyrack.control.app-main-5:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.proxyrack.control.app-release-4:/drawable_open_in_full_24px.xml.flat",
+        "source": "com.proxyrack.control.app-main-5:/drawable/open_in_full_24px.xml"
+    },
+    {
+        "merged": "com.proxyrack.control.app-release-4:/drawable-xxhdpi_header_bg.png.flat",
+        "source": "com.proxyrack.control.app-pngs-0:/drawable-xxhdpi/header_bg.png"
+    },
+    {
+        "merged": "com.proxyrack.control.app-release-4:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.proxyrack.control.app-main-5:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.proxyrack.control.app-release-4:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.proxyrack.control.app-main-5:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.proxyrack.control.app-release-4:/drawable-xhdpi_logo_full.png.flat",
+        "source": "com.proxyrack.control.app-pngs-0:/drawable-xhdpi/logo_full.png"
+    },
+    {
+        "merged": "com.proxyrack.control.app-release-4:/drawable-mdpi_logo_full.png.flat",
+        "source": "com.proxyrack.control.app-pngs-0:/drawable-mdpi/logo_full.png"
+    },
+    {
+        "merged": "com.proxyrack.control.app-release-4:/drawable-hdpi_header_bg.png.flat",
+        "source": "com.proxyrack.control.app-pngs-0:/drawable-hdpi/header_bg.png"
+    },
+    {
+        "merged": "com.proxyrack.control.app-release-4:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.proxyrack.control.app-main-5:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.proxyrack.control.app-release-4:/drawable-ldpi_header_bg.png.flat",
+        "source": "com.proxyrack.control.app-pngs-0:/drawable-ldpi/header_bg.png"
+    },
+    {
+        "merged": "com.proxyrack.control.app-release-4:/drawable-ldpi_logo_white.png.flat",
+        "source": "com.proxyrack.control.app-pngs-0:/drawable-ldpi/logo_white.png"
+    },
+    {
+        "merged": "com.proxyrack.control.app-release-4:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.proxyrack.control.app-main-5:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    }
+]
